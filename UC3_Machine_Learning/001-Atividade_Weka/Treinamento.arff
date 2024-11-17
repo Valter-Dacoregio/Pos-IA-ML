@@ -1,0 +1,41 @@
+% Tema 02 - Bloco 03
+@relation Example
+
+% @attribute nome String
+@attribute regiao {centro, norte, centro_sul, nordeste}
+@attribute escolaridade {fundamental, medio, superior}
+@attribute idade numeric
+@attribute renda numeric
+@attribute condicao {boa, ruim}
+
+%@data
+%"Maria", centro, fundamental, 45, 2000, boa
+%"Joao", norte, fundamental, 67, 1500, ruim
+%"Marcela", centro_sul, superior, 36, 4000, boa
+%"Bruno", centro_sul, superior, 44, 8000, boa
+%"Fabiana", nordeste, superior, 40, 6000, boa
+%"Fernanda", centro, medio, 19, 0, ruim
+%"Gabriela", nordeste, medio, 22, 1400, ruim
+%"Rodrigo", nordeste, medio, 33, 4000, boa
+%"Gabriel", centro, superior, 44, 4600, boa
+%"aaaaaa", centro, superior, 44, 4600, boa
+%"Fernanda", centro, medio, 18, 0, ruim
+%"Gabriela", nordeste, medio, 17, 1400, ruim
+%"Fernanda", centro, medio, 16, 0, ruim
+%"Gabriela", nordeste, medio, 15, 1400, ruim
+
+@data
+centro, fundamental, 45, 2000, boa
+norte, fundamental, 67, 1500, ruim
+centro_sul, superior, 36, 4000, boa
+centro_sul, superior, 44, 8000, boa
+nordeste, superior, 40, 6000, boa
+centro, medio, 19, 0, ruim
+nordeste, medio, 22, 1400, ruim
+nordeste, medio, 33, 4000, boa
+centro, superior, 44, 4600, boa
+centro, superior, 44, 4600, boa
+centro, medio, 18, 0, ruim
+nordeste, medio, 17, 1400, ruim
+centro, medio, 16, 0, ruim
+nordeste, medio, 15, 1400, ruim

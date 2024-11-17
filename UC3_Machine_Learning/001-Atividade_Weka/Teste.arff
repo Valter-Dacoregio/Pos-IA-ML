@@ -1,0 +1,16 @@
+@relation Example
+
+@attribute regiao {centro,norte,centro_sul,nordeste}
+@attribute escolaridade {fundamental,medio,superior}
+@attribute idade numeric
+@attribute renda numeric
+@attribute condicao {boa,ruim}
+
+@data
+centro,superior,28,4500,?
+norte,fundamental,37,1800,?
+centro_sul,superior,36,4000,boa
+centro,medio,19,0,ruim
+nordeste,medio,45,5000,boa
+centro,medio,19,0,ruim
+nordeste,medio,22,0,boa

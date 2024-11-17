@@ -1,0 +1,1 @@
+Turing, em seu famoso artigo chamou seu experimento mental de Jogo da Imitação (que após alguns anos passou a ser chamado de Teste de Turing). Este experimento é utilizado até hoje para avaliar o quanto um sistema é realmente inteligente. Abrindo então as portas para o estudo da Inteligência Artificial.
