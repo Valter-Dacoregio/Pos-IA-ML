@@ -1,0 +1,3 @@
+0 Cachorro
+1 Panda
+2 Peixe
